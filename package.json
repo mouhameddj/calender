@@ -18,7 +18,13 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@fullcalendar/core": "4.0.2",
+   
+    "bootstrap": "4.3.1",
+
+    "reactstrap": "8.0.0",
+    "sweetalert2": "8.8.5"
   },
   "scripts": {
     "start": "react-scripts start",
